@@ -9,7 +9,7 @@
   
   ```
   
-  1 x #3560 Romi Chassis Expansion Plate - Black = 4.75
+  1 x #3560 Romi Chassis Expansion Plate - Black https://www.pololu.com/product/3560
   
   1 x #3531 Romi Chassis Ball Caster Kit = 2.95 (color unimportant)
   
