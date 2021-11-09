@@ -1,13 +1,8 @@
 # 2022 C/D Term Chassis kit for 2001/2002
-
-  1 x #3660 Romi Chassis Kit/Encoders (BULK special purchase)
-  ```
-  Low volume alternate source 
-  
    1 x chassis kit https://www.pololu.com/product/3501
+   
    1 x Romi Encoder Pair https://www.pololu.com/product/3542
-  
-  ```
+
   
   1 x #3560 Romi Chassis Expansion Plate - Black https://www.pololu.com/product/3560
   
