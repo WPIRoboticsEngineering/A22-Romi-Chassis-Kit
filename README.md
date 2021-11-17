@@ -17,9 +17,17 @@
   1 x 2-56 nut set https://www.pololu.com/product/1067
   
   1 x 2-56 x 1/4"long https://www.pololu.com/product/1955   
-
-  1 x Servo with feedback https://www.pololu.com/product/3436
   
   1 x 2-56x 1.25" https://www.mcmaster.com/90272A087
   
   10 x 2-56x 3/4" https://www.mcmaster.com/90272A084
+
+  1 x ultrasonic https://www.sparkfun.com/products/15569  
+  
+  1 x IR receiver: https://www.pololu.com/product/2471 
+
+  1 x IR remote: https://www.pololu.com/product/2777
+  
+  1 x line sensor array (6 x 8mm): https://www.pololu.com/product/4246
+  
+  
