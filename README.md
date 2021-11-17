@@ -30,4 +30,4 @@
   
   1 x line sensor array (6 x 8mm): https://www.pololu.com/product/4246
   
-  
+  1 x Line Tracker Screws 2-56 1/4" https://www.pololu.com/product/1955
