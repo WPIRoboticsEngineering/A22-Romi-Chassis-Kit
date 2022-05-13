@@ -1,4 +1,4 @@
-# 2022 C/D Term Chassis kit for 2001/2002
+# 2022 A/B Term Chassis kit for 2001/2002
    1 x chassis kit https://www.pololu.com/product/3501
    
    1 x Romi Encoder Pair https://www.pololu.com/product/3542
