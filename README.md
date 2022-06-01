@@ -24,20 +24,3 @@
   
   1 x screw terminal: https://www.pololu.com/product/2491
 
----
-
-  1 x #1944 Aluminum Standoff: 1 1/4", 2-56 thread (4-pack): https://www.pololu.com/product/1945
-  
-  1 x #1943 Aluminum Standoff: 3/4", 2-56 thread (4-pack): https://www.pololu.com/product/1943
-
-  1 x #2009 Aluminum Standoff: 1 1/2", 2-56 thread (4-pack): https://www.pololu.com/product/2009
-  
-  1 x 2-56 nut set https://www.pololu.com/product/1067
-  
-  1 x 2-56 x 1/4"long https://www.pololu.com/product/1955   
-  
-  1 x 2-56x 1.25" https://www.mcmaster.com/90272A087
-  
-  10 x 2-56x 3/4" https://www.mcmaster.com/90272A084
-  
-  1 x Line Tracker Screws 2-56 1/4" https://www.pololu.com/product/1955
