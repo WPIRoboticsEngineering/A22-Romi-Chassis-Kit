@@ -1,9 +1,12 @@
 # 2022 A/B Term Chassis kit for 2001/2002
-   1 x chassis kit https://www.pololu.com/product/3501
-   
-   1 x Romi Encoder Pair https://www.pololu.com/product/3542
+  1 x Micro B Cable https://www.amazon.com/AmazonBasics-Double-Braided-Nylon-Charger/dp/B074VM7J5Z/
+ 
+  1 X 32u4 romi control board https://www.pololu.com/product/3544
 
-  
+  1 x Chassis kit https://www.pololu.com/product/3501
+   
+  1 x Romi Encoder Pair https://www.pololu.com/product/3542
+
   1 x #3560 Romi Chassis Expansion Plate - Black https://www.pololu.com/product/3560
   
   1 x #3531 Romi Chassis Ball Caster Kit = 2.95 (color unimportant) https://www.pololu.com/product/3530
