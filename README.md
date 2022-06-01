@@ -1,4 +1,4 @@
-# 2022 A/B Term Chassis kit for 2001/2002
+# RBE 2001/2002 Romi Kit
   1 x Micro B Cable https://www.pololu.com/product/2073
  
   1 X 32u4 romi control board https://www.pololu.com/product/3544
