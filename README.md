@@ -1,4 +1,4 @@
-# RBE 2001/2002 Romi Kit
+# Romi for RBE 2001/2002 (A/B 2022)
   1 x Micro B Cable https://www.pololu.com/product/2073
  
   1 X 32u4 romi control board https://www.pololu.com/product/3544
